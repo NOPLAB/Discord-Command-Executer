@@ -1,2 +1,3 @@
-# discord-PIPOPA
-開発していたbot今は作っていない
+# Discord-Command-Executer
+
+開発していたbotで今は作っていない
